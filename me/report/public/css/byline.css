@@ -5,7 +5,7 @@
     background-color: rgb(194, 233, 233);
     margin: 0;
     padding: 2em;
-    border: 1px solid #b5d5ff;
+    border: 20px solid #ffffff;
 }
 
 .byline img {
@@ -14,7 +14,7 @@
 
 .byline figcaption {
     caption-side: bottom;
-    font-style: italic;
+    font-style: helvetica;
     padding-top: 2em;
 }
 

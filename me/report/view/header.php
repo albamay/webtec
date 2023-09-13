@@ -21,6 +21,6 @@
 
 <header class="header">
     <img class="logo" src="img/favicon.png">
-    <span class="title">Kursen webtec</span>
+    <span class="title">Webtec</span>
     <span class="subtitle">Min rapportsida</span>
 </header>
