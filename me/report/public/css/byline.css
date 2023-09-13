@@ -1,9 +1,10 @@
 /** byline.css */
 
 .byline {
-    display: inline-block;
+    display:flow-root;
     background-color: rgb(194, 233, 233);
-    margin: 0;
+    margin: 0 auto;
+    max-width: 800px;
     padding: 2em;
     border: 20px solid #ffffff;
 }
@@ -14,14 +15,16 @@
 
 .byline figcaption {
     caption-side: bottom;
-    font-style: helvetica;
+    font-style:italic;
     padding-top: 2em;
 }
 
 .byline p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: gray;
+    color: rgb(116, 144, 185);
+
 }
+
 
 /** figure.css */
 

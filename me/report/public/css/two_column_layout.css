@@ -15,3 +15,7 @@
 .two-col-layout > .aside {
     width: calc(100% / 16 * 4); /* 4/16 width */
 }
+
+.two-col-layout > .aside1 {
+    width: calc(100% / 16 * 4); /* 4/16 width */
+}

@@ -21,12 +21,10 @@ include('../view/header.php');
         <img src="img/abouttoad.png" width="300" class="me" alt="Bild på mig">   
         </article>
     </main>
-
     <aside class="aside">
         <h4>Kursen</ha>
         <ul>
             <li><a href="https://dbwebb-se.github.io/webtec/">Github</a></li>
     </aside>
 </div>
-
 <?php include('../view/footer.php') ?>

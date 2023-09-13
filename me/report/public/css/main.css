@@ -15,7 +15,7 @@
 .article {
     overflow: auto;
     background: #ffffff;
-    border-left: 1px solid #ccc;
+    border-left: 1px solid #ffffff;
     border-right: 1px solid #ffffff;
     padding-left: 2em;
     padding-right: 1.5em;
@@ -23,7 +23,7 @@
 
 .article h1 {
     font-size: 2em;
-    border-bottom: 4px double #ccc;
+    border-bottom: 4px double #dadada;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -34,8 +34,9 @@
     font-style: italic;
 }
 
-article .figure {
-    color: brown;
+.article p {
+    color: rgba(61, 33, 33, 0.822);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .main .article {
