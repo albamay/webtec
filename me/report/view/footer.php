@@ -31,6 +31,6 @@
             <p>Denna sidan är Copyright &copy; av mig.</p>
         </div>
     </div>
-</footer>
+    </footer>
 </body>
 </html>

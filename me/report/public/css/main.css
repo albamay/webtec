@@ -12,6 +12,7 @@
     max-width: 800px;
 }
 
+
 .article {
     overflow: auto;
     background: #ffffff;
@@ -25,6 +26,12 @@
     font-size: 2em;
     border-bottom: 4px double #dadada;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.main .article h3 {
+    color: crimson;
+    font-size: 5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .article .author {

@@ -6,5 +6,4 @@
         <p><strong>Paddan</strong> studerar just nu inom python och webtec och vill kunna skappa vackra saker som fungerar, även om de är kortvariga och svåra att göra.</p>
 
 </footer>
-</body>
-</html>
+

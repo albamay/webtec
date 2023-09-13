@@ -6,7 +6,7 @@
  :root {
     --light-color: #CFC;
     --medium-color: #7A7;
-    --dark-color: rgb(37, 122, 110);
+    --dark-color: rgb(93, 175, 164);
 }
 
 /*
@@ -79,5 +79,5 @@
  */
 .header .title,
 .header .subtitle {
-    background-color: rgb(146, 240, 212);
+    background-color: rgb(185, 245, 227);
 }

@@ -20,7 +20,7 @@
 </nav>
 
 <header class="header">
-    <img class="logo" src="img/favicon.png">
-    <span class="title">Webtec</span>
+    <img class="logo" alt="" src="img/favicon.png">
+    <span class="title">Kursen Webtec</span>
     <span class="subtitle">Min rapportsida</span>
 </header>

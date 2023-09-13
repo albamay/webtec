@@ -4,12 +4,6 @@ include('../config/config.php');
 $title = 'Om mig själv';
 include('../view/header.php');
 ?>
-
-<!--    <main>
-        <h1>Om Mig Själv</h1>
-        <p>Hej! Jag är paddan och är duktig på att skapa problem och spendera timmar på att lösa dom. Så programering är perfekt för mig....gillar jag att tro. Älskar regn, lugna dagar och vackra saker. Vackra saker som skog, målningar, berg och mjuka kuddar. Jag är här för att lära mig att programera och få jobb inom området. Jag älskar min damm så mycket att jag har valt att studera distans i webbprogrammering för 120 poäng. Har studerat tidigare inom filisofi, politik och ekonomi, men vill skriva min kandidat inom programmering</p>
-        <img src="img/pasteltoad2.png" width="300" class="me" alt="Bild på mig">
-    </main> -->
     <main class="main">
     <article class="article">
         <header>
@@ -23,16 +17,6 @@ include('../view/header.php');
         </figure>
 
         <p>Hej! Jag är paddan och är duktig på att skapa problem och spendera timmar på att lösa dom. Så programering är perfekt för mig....gillar jag att tro. Älskar regn, lugna dagar och vackra saker. Vackra saker som skog, målningar, berg och mjuka kuddar. Jag är här för att lära mig att programera och få jobb inom området. Jag älskar min damm så mycket att jag har valt att studera distans i webbprogrammering för 120 poäng. Har studerat tidigare inom filisofi, politik och ekonomi, men vill skriva min kandidat inom programmering</p> 
-    
-
-        <!--<footer class="byline">
-
-            <figure class="figure left">
-                <img src="img/field1.png" width="150" class="me" alt="lilla paddan">
-            </figure>
-            <p><strong>Paddan</strong> studerar just nu inom python och webtec och vill kunna skappa vackra saker som fungerar, även om de är kortvariga och svåra att göra.</p>
-
-        </footer> -->
     </article>
 </main>
 
