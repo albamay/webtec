@@ -1,0 +1,26 @@
+/** byline.css */
+
+.byline {
+    display: inline-block;
+    background-color: rgb(194, 233, 233);
+    margin: 0;
+    padding: 2em;
+    border: 1px solid #b5d5ff;
+}
+
+.byline img {
+    max-width: 100%;
+}
+
+.byline figcaption {
+    caption-side: bottom;
+    font-style: italic;
+    padding-top: 2em;
+}
+
+/** figure.css */
+
+.figure.left {
+    float: left;
+    margin-left: 1em;
+}

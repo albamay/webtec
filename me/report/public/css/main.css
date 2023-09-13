@@ -1,0 +1,49 @@
+/** main.css */
+
+/*
+ * Set colors and size.
+ */
+ body {
+    background-color: #e6dafa;
+}
+
+.main {
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+.article {
+    overflow: auto;
+    background: #ffffff;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ffffff;
+    padding-left: 2em;
+    padding-right: 1.5em;
+}
+
+.article h1 {
+    font-size: 2em;
+    border-bottom: 4px double #ccc;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.article .author {
+    margin-top: -1em;
+    font-size: 0.8em;
+    color: #b3b3b3;
+    font-style: italic;
+}
+
+.main,
+.main .article {
+    min-height: 20em;
+}
+
+.aside {
+    background: #ffffff;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ffffff;
+    padding-left: 2em;
+    padding-right: 1.5em;
+}
+
