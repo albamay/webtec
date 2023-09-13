@@ -3,5 +3,10 @@
  */
 @import "header.css";
 @import "main.css";
-@import "nav.bar.css";
+@import "navbar.css";
 @import "init.css";
+@import "figure.css";
+@import "byline.css";
+@import "footer.css";
+@import "responsive.css";
+@import "two_column_layout.css";
