@@ -8,12 +8,23 @@
     color: #ee8b5e;
     padding: 0 1em;
 }
+/*
+ * Set font
+ */
+ .footer p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.footer h4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
 /*
  * Style the links.
  */
 .footer a {
     color: #ee8b5e;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .footer a:hover {
