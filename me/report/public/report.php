@@ -18,7 +18,7 @@ Det är svårt att vara en okunnig padda. En padda som aldrig varit bekant med t
 
     <h2 id="kmom02">kmom02</h2>
 
-    <p4>Denna vecka har jag lärt mig mer hur jag ska använda mig av CSS för att snygga till websidan. Nu när jag har blivit mycket mer bekant med labbmiljön tar övningen samt inlämningen mycket snabbare och jag kan fokusera mer på att lösa de små problem som uppstår, som t.ex. få rätt font för rätt stycke.</p4>
+    <p4>Denna vecka har jag lärt mig mer hur jag ska använda mig av CSS för att snygga till websidan. Nu när jag har blivit mycket mer bekant med labbmiljön tar övningen samt inlämningen mycket snabbare och jag kan fokusera mer på att lösa de små problem som uppstår, som t.ex. få rätt font för rätt stycke. Svårigheterna var nog att ändra på en viss text individuelt via CSS, specielt när man inte vet vart man ska börja. Däremot är det väldigt skönt att kunna organisera delar åtskilt och sedan importera till en separat fil. Är hittils väldigt nöjd om hur websidan ser ut, men önska jag kunde ha rörliga bilder. Genom att arbeta med CSS har jag även blivit duktigare på att felsöka, vilket underlättar mycket.</style></p4>
     
     <h2 id="kmom03">kmom03</h2>
     

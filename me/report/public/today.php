@@ -17,8 +17,7 @@ $weekday = date('l');
 
 <main class="main"> 
     <article class="article">
-    <h3>Dagens datum!!</h3>
-    <?= $today ?> <p5>och idag är det <?= $weekday ?>.</p5>
+    <h3>Dagens datum!!</h3><?= $today ?> <p>och idag är det <?= $weekday ?>.</p>
     
     <img src="img/stressedtoad.png" width="300" class="me" alt="Bild på mig">
     </article>

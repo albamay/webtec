@@ -20,7 +20,7 @@ include('../view/header.php');
     </article>
 </main>
 
-<?php 
+<?php
 include('../view/byline.php');
-include('../view/footer.php'); 
+include('../view/footer.php');
 ?>
