@@ -32,6 +32,7 @@
     color: crimson;
     font-size: 5em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 2px 2px 2px var(--medium-color);
 }
 
 .article .author {

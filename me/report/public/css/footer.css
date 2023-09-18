@@ -25,7 +25,6 @@
 .footer a {
     color: #ee8b5e;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-shadow: 2px 2px 2px var(--medium-color);
 }
 
 .footer a:hover {
