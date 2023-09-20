@@ -1,26 +1,38 @@
 <?php
 include('../config/config.php');
 
-$radius = 7.0;
-$pi = 3.14159;
+$date = $_GET["date"] ?? date('Y-m-d');
 
-// Extract the year only
-$currentYear = date('Y');
-echo $currentYear . "<br>";
+$timestamp = strtotime($date);
 
-
-$circumference = 2 * $radius * $pi;
-$area = $pi * $radius * $radius;
-
-$formattedRadius = number_format($radius, 1);
-$formattedCircumference = number_format($circumference, 2);
-$formattedArea = number_format($area, 2);
-
+$dateStr = date('Y-m-d', $timestamp);
+$monthStr = date('F', $timestamp);
+$monthDayStr = date('t', $timestamp);
+$weekStr = date('W', $timestamp);
+$dayStr = date('l', $timestamp);
 
 ?>
 
-<h2>Hello world</h2>
+<h2>HTML formulär med GET</h2>
 
-</p>
-    Cirkelns radie är <?= $radius ?> enheter, dess omkrets är <?= $circumference ?> enheter och dess area är <?= $formattedArea ?> enheter i kvadrat.
-</p>
+<form action="" method="get">
+    <p>
+        Datum:
+        <input type="text" name="date" placeholder="Skriv in ett datum">
+    </p>
+
+    <p>
+        <input type="submit" value="Skicka" name="doit">
+        <input type="reset" value="Rensa">
+    </p>
+</form>
+
+<h3>The incoming date is <?= $date ?></h3>
+
+<ul>
+    <li><?= $dateStr ?></li>
+    <li><?= $monthStr ?></li>
+    <li><?= $monthDayStr ?></li>
+    <li><?= $weekStr ?></li>
+    <li><?= $dayStr ?></li>
+</ul>
