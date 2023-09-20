@@ -16,7 +16,7 @@
         <li><a href="report.php">Report</a></li>
         <li><a href="about.php">About</a></li>
         <li><a href="today.php">Today</a></li>
-        <li><a href="play.php">Play</a></li>
+        <li><a href="friday.php">Friday?</a></li>
      </ul>
 </nav>
 
