@@ -17,6 +17,7 @@
         <li><a href="about.php">About</a></li>
         <li><a href="today.php">Today</a></li>
         <li><a href="friday.php">Friday?</a></li>
+        <li><a href="month.php">Calendar</a></li>
      </ul>
 </nav>
 

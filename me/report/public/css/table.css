@@ -1,0 +1,35 @@
+.main .article .calendar {
+    padding: 70px 25px;
+  width: 100%;
+  background: rgba(214, 248, 135, 0.952); 
+  text-align: center;
+
+}
+
+td {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    height: 40px;
+    background-color: rgb(211, 255, 228);
+    font-size: medium;
+    color: rgba(45, 145, 170, 0.952);
+}
+
+th {
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url("../img/background_rain.gif");
+    background-repeat: no-repeat;
+    height: 50px;
+    font-size: larger;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+}
+
+.sunday {
+    color: crimson;
+    font-weight: bold;
+}
+
+.year {
+    color: rgba(169, 169, 169, 0.603);
+    font-size: small;
+}
