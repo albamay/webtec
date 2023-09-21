@@ -88,7 +88,7 @@ for ($i = 1; $i <= $monthDays; $i++ ) {
           
         </ul>
 
-        <table border="2", class="calendar">
+        <table border="2" class="calendar">
             <tr>
                 <th><?= $year ?> <?= $monthName ?></th>
             </tr>
