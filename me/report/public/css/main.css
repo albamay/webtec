@@ -30,13 +30,25 @@
 }
 
 .main .article h3 {
-    color: rgb(33, 128, 216);
+    color: rgb(216, 33, 94);
     font-size: 5em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-shadow: 2px 2px 2px var(--medium-color);
+    text-shadow: 2px 2px 2px #ee8b5e;
 }
 
 h3 {
+    text-align: center;
+}
+
+.main .article h4 {
+    color: aquamarine;
+    font-size: 4em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 2px 2px 2px #af7dc1;
+}
+
+
+h4 {
     text-align: center;
 }
 
